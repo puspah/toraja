@@ -1,0 +1,43 @@
+{
+        "toraja":[
+        {
+        "id":"01",
+        "title":"Wisata Kete Kesu",
+        "lat":"-3.0011752",
+        "lng":"119.8947354",
+        "foto": "https://i.imgur.com/X0vnosG.jpg",
+        "deskripsi": "Jika anda berkunjung ke Toraja Utara, anda akan menemukan sebuah desa bernama Kete Kesu yang sangat indah dan unik. Berlokasi sekitar 4 Km dari Ratenpao, desa ini sudah menjadi sebuah objek wisata yang paling banyak dikunjungi oleh para pelancong."
+    }, {
+        "id": "02",
+        "title": "Banjir Kanal Barat",
+        "lat": "-6.991216",
+        "lng": "110.402120",
+        "provinsi" : "Jawa Tengah",
+        "foto": "https://i.imgur.com/2ez4kU1.jpg",
+        "deskripsi": "Banjir Kanal Barat merupakan sungai yang berada di sebelah barat Kota Semarang yang merupakan salah satu daya tarik Wisata di Kota Semarang, pemandangan yang indah pada malam hari dengan pantulan sinar cahaya menjadikan Sungai Banjir Kanal Barat menjadi berwarna dan cantik. Untuk memperkenalkan Banjir Kanal Barat, setiap tahun Pemerintah Kota Semarang mengadakan event dengan nama (Festival Banjir Kanal Barat) berbagai acara digelar disana diantaranya Festival Perahu Hias, Festival Mancing, Festival Kuliner, festival Lampion dan Pagelaran Musik."
+    }, {
+        "id": "03",
+        "title": "Museum Jago dan Muri",
+        "lat": "-7.068719",
+        "lng": "110.410275",
+        "provinsi" : "Jawa Tengah",
+        "foto": "https://i.imgur.com/eo3wMoe.jpg",
+        "deskripsi": "Museum ini didirikan oleh Perusahaan Jamu Jago sebagai Pusat Informasi dan promosi hasil jamu. Museum ini memiliki koleksi foto-foto, slide dan peralatan tradisional pembuatan jamu pada masa lalu"
+    }, {
+        "id": "04",
+        "title": "Museum Nyonya Meneer",
+        "lat": "-6.947015",
+        "lng": "110.460473",
+        "provinsi" : "Jawa Tengah",
+        "foto": "https://i.imgur.com/kARCRdY.png",
+        "deskripsi": "Museum Jamu Nyonya Meneer di Semarang merupakan museum jamu pertama di Indonesia. Di Museum ini terdapat aneka macam jamu dan juga sejarah dari pembuatan jamu Nyonya Meneer. Jamu merupakan salah satu warisan Indonesia."
+    }, {
+        "id": "05",
+        "title": "Museum Ronggowarsito",
+        "lat": "-6.985954",
+        "lng": "110.383860",
+        "provinsi" : "Jawa Tengah",
+        "foto": "https://i.imgur.com/d6x4tOf.jpg",
+        "deskripsi": "Jalan Abdul Rahman Saleh No.1, Kalibanteng Kulon, Semarang Barat, Kalibanteng Kidul, Semarang Bar., Kota Semarang, Jawa Tengah 50149. Museum Negeri Propinsi Jawa Tengah (Ronggowarsito) berada di jalan Abdul Rahman Saleh No.1 Semarang, diresmikan pada tanggal 5 Juli 1985 memiliki lebih dari 50.000 koleksi yang mempunyai nilai arkeologis, historis dan budaya."
+    } ]
+}
